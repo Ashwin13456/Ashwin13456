@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashwin13456
+- 👋 Hi, I’m Ashwin Anoopdas
 - 👀 I’m interested in creative-design, IOT
 - 🌱 I’m currently learning electronic engineering
 - 💞️ I’m looking to collaborate on research 
